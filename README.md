@@ -2,4 +2,4 @@
 ## Desafio de projeto
 
 ## links úteis:  
-[Sintaxe Markdown]{https://www.markdownguide.org/getting-started/}
+[Sintaxe Básica Markdown]{https://www.markdownguide.org/getting-started/}
