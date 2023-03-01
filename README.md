@@ -2,4 +2,4 @@
 ## Desafio de projeto
 
 ## links úteis:  
-{https://www.markdownguide.org/getting-started/}
+{ https://www.markdownguide.org/getting-started/ }
